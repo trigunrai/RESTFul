@@ -1,0 +1,5 @@
+package com.zensar.entities;
+
+public class Product {
+
+}

@@ -1,0 +1,15 @@
+package com.zensar.services;
+
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+@Path("/zenhello")
+public class hello {
+
+		@Produces(MediaType.TEXT_PLAIN)
+		public String sayPlainHello(){
+			return "Hello from Zensar";
+		}
+		
+}

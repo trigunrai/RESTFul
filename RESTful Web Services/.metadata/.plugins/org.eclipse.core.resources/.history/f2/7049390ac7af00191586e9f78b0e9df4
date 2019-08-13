@@ -1,0 +1,8 @@
+package com.zensar.DAO;
+
+import com.zensar.entities.Product; 
+
+public class productDAO {
+	void insert(Product product);
+
+}

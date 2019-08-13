@@ -1,0 +1,6 @@
+package com.zensar.services;
+@Path("/fileuploads")
+public class FileUploadService {
+@POST
+@Path("/upload")
+}

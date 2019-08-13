@@ -1,0 +1,8 @@
+package com.zensar.services;
+@Path("/productAddService")
+public class helloFormParam {
+	@POST
+	@path("/add")
+	@Produces("text/html")
+public Response addProduct(@FormParam{"id"}int id)
+}

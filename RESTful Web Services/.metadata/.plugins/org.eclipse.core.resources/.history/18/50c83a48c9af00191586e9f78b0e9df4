@@ -1,0 +1,25 @@
+package com.zensar.DAO;
+
+import com.zensar.entities.Product;
+
+public class ProductDaoImpl implements ProductDao {
+
+	@Override
+	public void insert(Product product) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(Product product) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(Product product) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

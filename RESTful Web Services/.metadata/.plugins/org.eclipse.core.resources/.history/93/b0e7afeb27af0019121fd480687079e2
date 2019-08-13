@@ -1,0 +1,9 @@
+package com.zensar.services;
+@Path("/fileuploads")
+public class FileUploadService {
+@POST
+@Path("/upload")
+@Produces("text/html")
+@Consumes(MediaType.MULTIPART_FORM_DATA)
+public Response uploadFile(@FormDataParam("myfile")InputStream)
+}

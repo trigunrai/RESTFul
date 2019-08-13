@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Trivag Home</title>
+
+<style type="text/css">
+body{
+background-color:lime;
+}
+</style>
+</head>
+<body>
+<h3>How do you say Hello?</h3>
+<h4><a href=http://localhost:8085/HelloService/zenrest/zenhello>Plain</a></h4>
+<h5><a href=http://localhost:8085/HelloService/zenrest/zenhello/welcome>HTML</a></h5>
+<h6><a href=http://localhost:8085/HelloService/zenrest/zenhello/welcomexml>XML</a></h6>
+<h6><a href=http://localhost:8085/HelloService/zenrest/files/txt>download</a></h6>
+<h6><a href=http://localhost:8085/HelloService/zenrest/files/images>download images</a></h6>
+</body>
+</html>

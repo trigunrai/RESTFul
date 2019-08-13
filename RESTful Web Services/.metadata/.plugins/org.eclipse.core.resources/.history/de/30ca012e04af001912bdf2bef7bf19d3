@@ -1,0 +1,6 @@
+package com.zensar.services;
+
+@Path("/zenparam")
+public class helloParam {
+
+}

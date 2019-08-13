@@ -1,0 +1,154 @@
+
+Jul 26, 2019 12:48:55.32 NEW SESSION
+Jul 26, 2019 12:48:55.32 [12600:10864:0726/124855.313:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 12:48:55.32 [12600:10864:0726/124855.315:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 12:48:55.32 [12600:10864:0726/124855.315:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 12:48:55.33 [12600:10864:0726/124855.315:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 12:48:55.68 Opening in existing browser session.
+Jul 26, 2019 12:50:41.00 [4060:4868:0726/125040.997:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 12:50:41.00 [4060:4868:0726/125040.998:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 12:50:41.00 [4060:4868:0726/125040.998:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 12:50:41.01 [4060:4868:0726/125040.998:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 12:50:41.56 Opening in existing browser session.
+Jul 26, 2019 12:57:00.01 [10204:5016:0726/125700.008:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 12:57:00.01 [10204:5016:0726/125700.009:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 12:57:00.01 [10204:5016:0726/125700.009:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 12:57:00.02 [10204:5016:0726/125700.009:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 12:57:00.55 Opening in existing browser session.
+Jul 26, 2019 13:02:14.39 [12548:9808:0726/130214.388:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:02:14.39 [12548:9808:0726/130214.390:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:02:14.39 [12548:9808:0726/130214.390:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:02:14.40 [12548:9808:0726/130214.390:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:02:14.77 Opening in existing browser session.
+Jul 26, 2019 13:03:12.77 [3604:2536:0726/130312.775:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:03:12.78 [3604:2536:0726/130312.776:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:03:12.78 [3604:2536:0726/130312.776:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:03:12.78 [3604:2536:0726/130312.776:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:03:13.19 Opening in existing browser session.
+Jul 26, 2019 13:06:04.40 [4448:12160:0726/130604.400:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:06:04.40 [4448:12160:0726/130604.401:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:06:04.41 [4448:12160:0726/130604.401:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:06:04.41 [4448:12160:0726/130604.401:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:06:04.90 Opening in existing browser session.
+Jul 26, 2019 13:08:08.51 [12996:11480:0726/130808.507:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:08:08.51 [12996:11480:0726/130808.509:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:08:08.51 [12996:11480:0726/130808.509:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:08:08.52 [12996:11480:0726/130808.509:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:08:08.88 Opening in existing browser session.
+Jul 26, 2019 13:13:47.23 [11656:12644:0726/131347.231:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:13:47.23 [11656:12644:0726/131347.233:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:13:47.24 [11656:12644:0726/131347.233:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:13:47.24 [11656:12644:0726/131347.233:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:13:47.72 Opening in existing browser session.
+Jul 26, 2019 13:15:15.82 [8328:11696:0726/131515.818:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:15:15.82 [8328:11696:0726/131515.819:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:15:15.82 [8328:11696:0726/131515.819:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:15:15.83 [8328:11696:0726/131515.819:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:15:16.44 Opening in existing browser session.
+Jul 26, 2019 13:16:33.20 [9380:13448:0726/131633.204:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:16:33.21 [9380:13448:0726/131633.205:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:16:33.21 [9380:13448:0726/131633.205:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:16:33.21 [9380:13448:0726/131633.205:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:16:33.74 Opening in existing browser session.
+Jul 26, 2019 13:17:43.62 [13220:12896:0726/131743.618:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:17:43.63 [13220:12896:0726/131743.632:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:17:43.63 [13220:12896:0726/131743.632:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:17:43.64 [13220:12896:0726/131743.632:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:17:44.00 Opening in existing browser session.
+Jul 26, 2019 13:20:20.83 [13448:10536:0726/132020.836:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:20:20.84 [13448:10536:0726/132020.837:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:20:20.84 [13448:10536:0726/132020.837:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:20:20.84 [13448:10536:0726/132020.838:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:20:21.33 Opening in existing browser session.
+Jul 26, 2019 13:22:57.63 [13404:10276:0726/132257.636:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:22:57.64 [13404:10276:0726/132257.637:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:22:57.64 [13404:10276:0726/132257.637:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:22:57.64 [13404:10276:0726/132257.637:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:22:58.19 Opening in existing browser session.
+Jul 26, 2019 13:28:48.67 [13380:13764:0726/132848.674:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:28:48.68 [13380:13764:0726/132848.675:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:28:48.68 [13380:13764:0726/132848.675:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:28:48.68 [13380:13764:0726/132848.675:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:28:49.03 Opening in existing browser session.
+Jul 26, 2019 13:29:52.32 [10484:13968:0726/132952.320:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:29:52.32 [10484:13968:0726/132952.322:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:29:52.33 [10484:13968:0726/132952.322:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:29:52.33 [10484:13968:0726/132952.322:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:29:52.67 Opening in existing browser session.
+Jul 26, 2019 13:31:40.46 [13840:4128:0726/133140.466:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:31:40.47 [13840:4128:0726/133140.470:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:31:40.47 [13840:4128:0726/133140.470:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:31:40.47 [13840:4128:0726/133140.470:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:31:41.08 Opening in existing browser session.
+Jul 26, 2019 13:32:18.54 [4664:11936:0726/133218.542:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 13:32:18.54 [4664:11936:0726/133218.545:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 13:32:18.55 [4664:11936:0726/133218.545:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 13:32:18.55 [4664:11936:0726/133218.545:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 13:32:18.95 Opening in existing browser session.
+Jul 26, 2019 13:33:57.25 [13680:5628:0726/133357.252:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -102
+Jul 26, 2019 17:54:10.71 [14324:2204:0726/175410.707:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 17:54:10.73 [14324:2204:0726/175410.709:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 17:54:10.74 [14324:2204:0726/175410.709:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 17:54:10.74 [14324:2204:0726/175410.709:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 17:54:11.68 Opening in existing browser session.
+Jul 26, 2019 18:07:35.26 [12764:8848:0726/180735.261:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 18:07:35.26 [12764:8848:0726/180735.262:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 18:07:35.27 [12764:8848:0726/180735.262:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 18:07:35.27 [12764:8848:0726/180735.262:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 18:07:35.60 Opening in existing browser session.
+Jul 26, 2019 18:08:47.42 [13344:5896:0726/180847.419:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 18:08:47.42 [13344:5896:0726/180847.420:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 18:08:47.42 [13344:5896:0726/180847.421:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 18:08:47.43 [13344:5896:0726/180847.421:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 18:08:48.19 Opening in existing browser session.
+Jul 26, 2019 18:14:02.72 [2440:12068:0726/181402.716:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 18:14:02.72 [2440:12068:0726/181402.718:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 18:14:02.72 [2440:12068:0726/181402.718:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 18:14:02.73 [2440:12068:0726/181402.718:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 18:14:03.33 Opening in existing browser session.
+Jul 26, 2019 18:29:43.56 [3328:5632:0726/182943.559:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 18:29:43.56 [3328:5632:0726/182943.562:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 18:29:43.57 [3328:5632:0726/182943.562:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 18:29:43.57 [3328:5632:0726/182943.562:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 18:29:44.08 Opening in existing browser session.
+Jul 26, 2019 18:30:53.03 [11244:4464:0726/183053.028:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 18:30:53.03 [11244:4464:0726/183053.029:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 18:30:53.03 [11244:4464:0726/183053.029:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 18:30:53.04 [11244:4464:0726/183053.029:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 18:30:53.44 Opening in existing browser session.
+Jul 26, 2019 19:02:44.58 [12752:13824:0726/190244.580:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 19:02:44.58 [12752:13824:0726/190244.581:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 19:02:44.58 [12752:13824:0726/190244.581:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 19:02:44.59 [12752:13824:0726/190244.581:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 19:02:45.03 Opening in existing browser session.
+Jul 26, 2019 19:05:54.45 [9460:13196:0726/190554.454:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 19:05:54.46 [9460:13196:0726/190554.455:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 19:05:54.46 [9460:13196:0726/190554.455:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 19:05:54.46 [9460:13196:0726/190554.455:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 19:05:54.76 Opening in existing browser session.
+Jul 26, 2019 19:06:54.43 [13580:12840:0726/190654.429:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 19:06:54.43 [13580:12840:0726/190654.431:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 19:06:54.43 [13580:12840:0726/190654.431:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 19:06:54.44 [13580:12840:0726/190654.431:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 19:06:55.26 Opening in existing browser session.
+Jul 26, 2019 19:29:11.09 [12044:3328:0726/192911.092:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 19:29:11.09 [12044:3328:0726/192911.094:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 19:29:11.10 [12044:3328:0726/192911.094:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 19:29:11.10 [12044:3328:0726/192911.094:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 19:29:11.48 Opening in existing browser session.
+Jul 26, 2019 19:55:20.87 [13804:11332:0726/195520.875:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 19:55:20.88 [13804:11332:0726/195520.882:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 19:55:20.88 [13804:11332:0726/195520.884:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 19:55:20.89 [13804:11332:0726/195520.884:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 19:55:21.19 Opening in existing browser session.
+Jul 26, 2019 19:56:17.09 [14288:14000:0726/195617.088:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 19:56:17.09 [14288:14000:0726/195617.089:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 19:56:17.09 [14288:14000:0726/195617.089:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 19:56:17.10 [14288:14000:0726/195617.089:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 19:56:17.59 Opening in existing browser session.
+Jul 26, 2019 19:58:24.60 [1912:14276:0726/195824.597:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+Jul 26, 2019 19:58:24.60 [1912:14276:0726/195824.598:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\TRG\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+Jul 26, 2019 19:58:24.60 [1912:14276:0726/195824.598:ERROR:disk_cache.cc(178)] Unable to create cache
+Jul 26, 2019 19:58:24.61 [1912:14276:0726/195824.598:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+Jul 26, 2019 19:58:25.59 Opening in existing browser session.
+Jul 26, 2019 20:06:58.30 [13680:5628:0726/200658.306:ERROR:browser_process_sub_thread.cc(221)] Waited 760 ms for network service

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Trivag Home</title>
+
+<style type="text/css">
+body{
+background-color:lime;
+}
+</style>
+</head>
+<body>
+<h3>How do you say Hello?</h3>
+</body>
+</html>

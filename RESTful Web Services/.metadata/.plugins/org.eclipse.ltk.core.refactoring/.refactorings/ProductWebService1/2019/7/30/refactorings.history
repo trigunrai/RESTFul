@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.zensar.DAO&apos; to &apos;com.zensar.daos&apos;&#x0D;&#x0A;- Original project: &apos;ProductWebService1&apos;&#x0D;&#x0A;- Original element: &apos;ProductWebService1/src/com.zensar.DAO&apos;&#x0D;&#x0A;- Renamed element: &apos;ProductWebService1/src/com.zensar.daos&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.zensar.DAO&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.zensar.DAO" name="com.zensar.daos" qualified="false" references="true" stamp="1564173758272" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+package com.zensar.sevices.ui;
+/*
+Author: Trigun Rai
+Creation Date: 26th Jul 2019 12:15PM
+Modification Date: 26th Jul 2019 12:15PM
+Version:1.0
+Copyright:Zensar Technnologies. All rights reserved
+Description:Project Web Service
+it encapsulates business logic of application component.
+It interacts with Dao layer to get data form database
+it interacts with presentation layer
+it give data as per business requirement.
+*/
+public class ProductResource {
+
+}

@@ -1,0 +1,5 @@
+package com.zensar.sevices.ui;
+
+public class ProductResource {
+
+}

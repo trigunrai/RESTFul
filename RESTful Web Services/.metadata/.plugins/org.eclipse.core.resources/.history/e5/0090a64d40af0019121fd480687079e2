@@ -1,0 +1,9 @@
+package com.zensar.entities;
+
+import javax.persistence.Entity;
+
+@Entity 
+@Table(name="PRODUCT")
+public class Product {
+
+}

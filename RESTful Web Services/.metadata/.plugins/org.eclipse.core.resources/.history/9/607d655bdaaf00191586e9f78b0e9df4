@@ -1,0 +1,13 @@
+package com.zensar.sevices.ui;
+/*
+Author: Trigun Rai
+Creation Date: 26th Jul 2019 12:15PM
+Modification Date: 26th Jul 2019 12:15PM
+Version:1.0
+Copyright:Zensar Technnologies. All rights reserved
+Description:Product Web Service
+itprovides through RESTful Web Services
+*/
+public class ProductResource {
+
+}

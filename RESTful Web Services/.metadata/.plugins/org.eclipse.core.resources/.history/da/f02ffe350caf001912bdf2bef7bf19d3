@@ -1,0 +1,13 @@
+package com.zensar.services;
+
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+
+@Path("/productAddService")
+public class helloFormParam {
+	@POST
+	@Path("/add")
+	@Produces("text/html")
+public Response addProduct(@FormParam("id")int id,@FormParam("name")String productName,@FormParam("price")double price)
+}
